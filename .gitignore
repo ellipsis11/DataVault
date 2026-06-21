@@ -1,0 +1,29 @@
+# Java / Spring Boot
+target/
+*.jar
+*.war
+*.class
+
+# Maven
+.mvn/
+mvnw.cmd
+
+# Logs
+*.log
+
+# Node / SvelteKit
+node_modules/
+.svelte-kit/
+build/
+dist/
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS junk
+Thumbs.db

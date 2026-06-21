@@ -1,0 +1,31 @@
+package lt.pauliusbaksys.datavault.enums;
+
+public enum AuditAction {
+    REGISTER,
+    LOGIN,
+    LOGOUT,
+
+    USER_KEYS_CREATE,
+
+    FILE_UPLOAD,
+    FILE_RENAME,
+    FILE_DELETE,
+    FILE_DOWNLOAD,
+
+    POLICY_CREATE,
+    POLICY_UPDATE,
+    POLICY_DELETE,
+    POLICY_PAUSE,
+    POLICY_RESUME,
+    POLICY_WARNING_SEND,
+    POLICY_GRACE_STARTED,
+    POLICY_RELEASE,
+
+    RECEIVED_POLICY_ACCESS,
+    RECEIVED_FILE_DOWNLOAD,
+
+    TELEGRAM_LINK,
+    TELEGRAM_UNLINK,
+
+    USER_DELETE
+}
