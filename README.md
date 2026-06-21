@@ -65,3 +65,9 @@ The application follows a zero-knowledge-inspired model:
 - Audit logging
 - Telegram notifications
 - Admin control panel
+
+## Project Demo
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/60dbe9de-b72d-4fde-83cc-d0fd3a63349c" width="90%" controls></video>
+</p>
